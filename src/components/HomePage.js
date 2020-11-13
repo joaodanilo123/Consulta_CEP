@@ -33,7 +33,7 @@ export default function HomePage() {
         <article className="container">
             <header className="level">
                 <div className="level-right">
-                    <h4 className="level-item"><a className="button">GitHub</a></h4>
+                    <h4 className="level-item"><a className="button" href="https://github.com/joaodanilo123/Consulta_CEP/">GitHub</a></h4>
                 </div>
                 <h1 className="title level-item m-5">Consultar CEP</h1>
                 <div className="level-left">
